@@ -1,7 +1,5 @@
 # Solving CAPTCHA in Web Scraping & Automation
 
-![CAPTCHA Challenges](https://assets.capsolver.com/prod/posts/solve-captcha-problem/95RvsrQ95xiy-05e113d865669d62e6d216b47ca56741.png)
-
 CAPTCHA is one of the biggest challenges in web scraping and automation. While it helps websites block bots, it also creates barriers for developers working on legitimate automation tasks. This guide explains CAPTCHA types and effective ways to bypass them while ensuring compliance.
 
 ## 📌 What Is a CAPTCHA?
